@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6d45e4b1-addb-4e9d-8d93-1f4f6327b0e0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/算法与数据结构/第一章 概论/1.6 .1面向对象与流.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法与数据结构/第一章 概论/1.6 .1面向对象与流.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -241,7 +240,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612830086071</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="2.9 update">
+      <created>1612872403545</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1612872403545</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TodoView">
@@ -254,10 +260,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1455" height="935" extended-state="6" />
-    <editor active="true" />
+    <frame x="-3" y="-3" width="734" height="928" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22057787" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2191977" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
