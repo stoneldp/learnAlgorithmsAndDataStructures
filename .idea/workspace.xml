@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d45e4b1-addb-4e9d-8d93-1f4f6327b0e0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/算法与数据结构/第二章 线性表/2.1 线性结构.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法与数据结构/第二章 线性表/2.1.2 线性表类模板.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法与数据结构/第二章 线性表/2.1 线性结构.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法与数据结构/第二章 线性表/2.1.1 线性结构.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,14 +14,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/算法与数据结构/第二章 线性表/2.1 线性结构.md">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/算法与数据结构/第二章 线性表/2.1.1 线性结构.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="362">
-                <caret line="48" column="10" lean-forward="true" selection-start-line="48" selection-start-column="10" selection-end-line="48" selection-end-column="10" />
+              <first_editor relative-caret-position="330">
+                <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/算法与数据结构/第二章 线性表/2.1.2 线性表类模板.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -52,6 +62,7 @@
         <option value="$PROJECT_DIR$/算法与数据结构/第一章 概论/1.6.2 计算矩形面积(使用类).cpp" />
         <option value="$PROJECT_DIR$/算法与数据结构/第一章 概论/1.6 .1面向对象与流.md" />
         <option value="$PROJECT_DIR$/算法与数据结构/第二章 线性表/2.1 线性结构.md" />
+        <option value="$PROJECT_DIR$/算法与数据结构/第二章 线性表/2.1.2 线性表类模板.cpp" />
       </list>
     </option>
   </component>
@@ -210,7 +221,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612998910140</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="2.18 update">
+      <created>1613606064130</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1613606064130</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TodoView">
@@ -271,7 +289,8 @@
     <MESSAGE value="2.8 update" />
     <MESSAGE value="2.9 update" />
     <MESSAGE value="2.11 update" />
-    <option name="LAST_COMMIT_MESSAGE" value="2.11 update" />
+    <MESSAGE value="2.18 update" />
+    <option name="LAST_COMMIT_MESSAGE" value="2.18 update" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/算法与数据结构/第一章 概论/概论.md" />
@@ -371,6 +390,23 @@
             <caret line="48" column="10" lean-forward="true" selection-start-line="48" selection-start-column="10" selection-end-line="48" selection-end-column="10" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法与数据结构/第二章 线性表/2.1.1 线性结构.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="330">
+            <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法与数据结构/第二章 线性表/2.1.2 线性表类模板.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
         </state>
       </provider>
     </entry>
