@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d45e4b1-addb-4e9d-8d93-1f4f6327b0e0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/算法与数据结构/第三章 栈与队列/3.1 栈.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法与数据结构/第二章 线性表/2.2.1 顺序表.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法与数据结构/第二章 线性表/2.2.2 顺序表的类定义、插入、删除的算法.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法与数据结构/第二章 线性表/2.3 链表(linked list).md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,12 +34,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/算法与数据结构/第二章 线性表/2.2.1 顺序表.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="330">
-                <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
+              <first_editor relative-caret-position="315">
+                <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/算法与数据结构/第二章 线性表/2.3 链表(linked list).md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="210">
+                <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
               </first_editor>
               <second_editor />
             </state>
@@ -51,7 +61,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/算法与数据结构/第二章 线性表/2.2.2 顺序表的类定义、插入、删除的算法.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="657">
+            <state relative-caret-position="930">
               <caret line="62" column="65" selection-start-line="62" selection-start-column="65" selection-end-line="62" selection-end-column="65" />
             </state>
           </provider>
@@ -97,6 +107,7 @@
         <option value="$PROJECT_DIR$/算法与数据结构/第二章 线性表/2.1.2 线性表类模板.cpp" />
         <option value="$PROJECT_DIR$/算法与数据结构/第二章 线性表/2.2.2 顺序表的类定义、插入、删除的算法.cpp" />
         <option value="$PROJECT_DIR$/算法与数据结构/第二章 线性表/2.2.1 顺序表.md" />
+        <option value="$PROJECT_DIR$/算法与数据结构/第二章 线性表/2.3 链表(linked list).md" />
       </list>
     </option>
   </component>
@@ -263,7 +274,28 @@
       <option name="project" value="LOCAL" />
       <updated>1613607471388</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="2.20 update">
+      <created>1613779899678</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1613779899679</updated>
+    </task>
+    <task id="LOCAL-00016" summary="2.20 update">
+      <created>1613780009131</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1613780009131</updated>
+    </task>
+    <task id="LOCAL-00017" summary="2.20 update">
+      <created>1613780345573</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1613780345573</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TodoView">
@@ -279,7 +311,7 @@
     <frame x="-7" y="-7" width="1455" height="935" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1042988" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.05073996" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -306,7 +338,8 @@
     <MESSAGE value="2.9 update" />
     <MESSAGE value="2.11 update" />
     <MESSAGE value="2.18 update" />
-    <option name="LAST_COMMIT_MESSAGE" value="2.18 update" />
+    <MESSAGE value="2.20 update" />
+    <option name="LAST_COMMIT_MESSAGE" value="2.20 update" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/算法与数据结构/第一章 概论/概论.md" />
@@ -410,6 +443,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/算法与数据结构/第二章 线性表/2.2.1 顺序表.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="315">
+            <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法与数据结构/第二章 线性表/2.2.2 顺序表的类定义、插入、删除的算法.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="62" column="65" selection-start-line="62" selection-start-column="65" selection-end-line="62" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/算法与数据结构/第三章 栈与队列/3.1 栈.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -418,18 +468,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/算法与数据结构/第二章 线性表/2.2.2 顺序表的类定义、插入、删除的算法.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="657">
-          <caret line="62" column="65" selection-start-line="62" selection-start-column="65" selection-end-line="62" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/算法与数据结构/第二章 线性表/2.2.1 顺序表.md">
+    <entry file="file://$PROJECT_DIR$/算法与数据结构/第二章 线性表/2.3 链表(linked list).md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="330">
-            <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
+          <first_editor relative-caret-position="210">
+            <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
           </first_editor>
           <second_editor />
         </state>
