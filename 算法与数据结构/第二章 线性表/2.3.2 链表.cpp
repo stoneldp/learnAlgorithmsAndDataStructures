@@ -44,3 +44,19 @@ count++;
 };
 return p;//指向第i结点,i=0,1，。。。，当链表中结点数小于i时返回NULL
 }
+
+//单链表插入算法
+//插入数据内容为value的新结点作为第i个结点
+template <class T>    //线性表的元素类型为T
+bool InkList<T>::insert(const int i,const T value){
+Link<T>*p,*q;
+if((p=setPos(i-1))==NULL){  //p是第i个结点的前驱
+cout<<"非法插入点"<<endl;
+return false;
+}
+q=new Link<T>(value,q->next);
+p->next=q;
+if(p==tail)    //插入点在链尾，插入结点成为新的链尾
+tail=q;
+return true;
+}
