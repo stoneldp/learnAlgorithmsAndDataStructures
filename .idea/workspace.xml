@@ -47,21 +47,21 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/算法与数据结构/第二章 线性表/2.3.2 链表.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="52" column="40" selection-start-line="52" selection-start-column="40" selection-end-line="52" selection-end-column="40" />
+            <state relative-caret-position="252">
+              <caret line="59" column="7" lean-forward="true" selection-start-line="53" selection-start-column="20" selection-end-line="59" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/算法与数据结构/第二章 线性表/2.3.1 链表(linked list).md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="345">
-                <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+                <caret line="23" column="20" lean-forward="true" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
               </first_editor>
               <second_editor />
             </state>
@@ -71,7 +71,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/算法与数据结构/第二章 线性表/2.2.2 顺序表的类定义、插入、删除的算法.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="930">
+            <state relative-caret-position="747">
               <caret line="62" column="65" selection-start-line="62" selection-start-column="65" selection-end-line="62" selection-end-column="65" />
             </state>
           </provider>
@@ -118,8 +118,8 @@
         <option value="$PROJECT_DIR$/算法与数据结构/第二章 线性表/2.2.2 顺序表的类定义、插入、删除的算法.cpp" />
         <option value="$PROJECT_DIR$/算法与数据结构/第二章 线性表/2.2.1 顺序表.md" />
         <option value="$PROJECT_DIR$/算法与数据结构/第二章 线性表/2.3 链表(linked list).md" />
-        <option value="$PROJECT_DIR$/算法与数据结构/第二章 线性表/2.3.2 链表.cpp" />
         <option value="$PROJECT_DIR$/算法与数据结构/第二章 线性表/2.3.1 链表(linked list).md" />
+        <option value="$PROJECT_DIR$/算法与数据结构/第二章 线性表/2.3.2 链表.cpp" />
       </list>
     </option>
   </component>
@@ -155,6 +155,15 @@
               <item name="learnAlgorithmsAndDataStructures" type="462c0819:PsiDirectoryNode" />
               <item name="算法与数据结构" type="462c0819:PsiDirectoryNode" />
               <item name="第二章 线性表" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnAlgorithmsAndDataStructures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="learnAlgorithmsAndDataStructures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 &gt;" type="70bed36:NamedLibraryElementNode" />
             </path>
           </expand>
           <select />
@@ -321,7 +330,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614039610936</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="2.24 update">
+      <created>1614124299861</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1614124299861</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TodoView">
@@ -367,7 +383,8 @@
     <MESSAGE value="2.20 update" />
     <MESSAGE value="2.21 update" />
     <MESSAGE value="2.23 update" />
-    <option name="LAST_COMMIT_MESSAGE" value="2.23 update" />
+    <MESSAGE value="2.24 update" />
+    <option name="LAST_COMMIT_MESSAGE" value="2.24 update" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/算法与数据结构/第一章 概论/概论.md" />
@@ -482,13 +499,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/算法与数据结构/第二章 线性表/2.2.2 顺序表的类定义、插入、删除的算法.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="930">
-          <caret line="62" column="65" selection-start-line="62" selection-start-column="65" selection-end-line="62" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/算法与数据结构/第三章 栈与队列/3.1 栈.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -497,10 +507,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/算法与数据结构/第二章 线性表/2.3.2 链表.cpp">
+    <entry file="file://$PROJECT_DIR$/算法与数据结构/第二章 线性表/2.2.2 顺序表的类定义、插入、删除的算法.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="52" column="40" selection-start-line="52" selection-start-column="40" selection-end-line="52" selection-end-column="40" />
+        <state relative-caret-position="747">
+          <caret line="62" column="65" selection-start-line="62" selection-start-column="65" selection-end-line="62" selection-end-column="65" />
         </state>
       </provider>
     </entry>
@@ -508,9 +518,16 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="345">
-            <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+            <caret line="23" column="20" lean-forward="true" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法与数据结构/第二章 线性表/2.3.2 链表.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="59" column="7" lean-forward="true" selection-start-line="53" selection-start-column="20" selection-end-line="59" selection-end-column="7" />
         </state>
       </provider>
     </entry>

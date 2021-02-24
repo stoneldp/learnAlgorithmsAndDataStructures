@@ -60,3 +60,30 @@ if(p==tail)    //插入点在链尾，插入结点成为新的链尾
 tail=q;
 return true;
 }
+
+//单链表删除算法
+template <class T> //线性表的元素类型为T
+bool InkList<T>::delete((const int i){
+link<T>*p,*q;    //待删除结点不存在，即给定的i大于当前链中元素个数
+if((p=setPos(i-1))==NULL||p==tail){
+cout<<"非法删除点"<<endl;
+return false;
+}
+q=p->next;       //q是真正待删除结点
+if(q==tail){     //待删除结点为结尾点，则修改尾指针
+tail=p;
+p->next=NULL:}
+}
+else             //删除结点q并修改链指针
+p->next=q->next;
+delete q;
+reutrn true;
+}
+
+//双链表及其结点类型的说明
+template<class T>class Link{
+public:
+T date;
+link<T>*next;
+Link<T>*prev;
+Link(const T info,Link<T>*preValue=NULL,Link<T>*nextValue=NULL)}
