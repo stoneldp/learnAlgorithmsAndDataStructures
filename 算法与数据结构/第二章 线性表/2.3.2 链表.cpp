@@ -83,7 +83,18 @@ reutrn true;
 //双链表及其结点类型的说明
 template<class T>class Link{
 public:
-T date;
-link<T>*next;
-Link<T>*prev;
-Link(const T info,Link<T>*preValue=NULL,Link<T>*nextValue=NULL)}
+T date;       //用于保存结点元素的内容
+link<T>*next; //指向后继结点的指针
+Link<T>*prev; //指向前驱结点的指针
+Link(const T info,Link<T>*preValue=NULL,Link<T>*nextValue=NULL){
+//给定值和前后指针的构造函数
+date=info;
+next=nextValue;
+prev=preValue;
+}
+Link(Link<T>*preValue=NULL,Link<t>*nextValue=NULL){
+//给定前后指针的构造函数
+next=nextValue;
+prev=preValue;
+}
+}
