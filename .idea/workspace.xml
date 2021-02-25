@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d45e4b1-addb-4e9d-8d93-1f4f6327b0e0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/算法与数据结构/第二章 线性表/2.4 顺序表和链表的比较.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/算法与数据结构/第二章 线性表/2.3.1 链表(linked list).md" beforeDir="false" afterPath="$PROJECT_DIR$/算法与数据结构/第二章 线性表/2.3.1 链表(linked list).md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/算法与数据结构/第二章 线性表/2.3.2 链表.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/算法与数据结构/第二章 线性表/2.3.2 链表.cpp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,12 +55,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/算法与数据结构/第二章 线性表/2.3.1 链表(linked list).md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="722">
                 <caret line="66" column="13" selection-start-line="66" selection-start-column="13" selection-end-line="66" selection-end-column="13" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/算法与数据结构/第二章 线性表/2.4 顺序表和链表的比较.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="722">
+                <caret line="58" column="2" selection-start-line="58" selection-start-column="2" selection-end-line="58" selection-end-column="2" />
               </first_editor>
               <second_editor />
             </state>
@@ -120,6 +131,7 @@
         <option value="$PROJECT_DIR$/算法与数据结构/第二章 线性表/2.3 链表(linked list).md" />
         <option value="$PROJECT_DIR$/算法与数据结构/第二章 线性表/2.3.2 链表.cpp" />
         <option value="$PROJECT_DIR$/算法与数据结构/第二章 线性表/2.3.1 链表(linked list).md" />
+        <option value="$PROJECT_DIR$/算法与数据结构/第二章 线性表/2.4 顺序表和链表的比较.md" />
       </list>
     </option>
   </component>
@@ -344,7 +356,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614127177360</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="2.25 update">
+      <created>1614211462426</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1614211462427</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TodoView">
@@ -391,7 +410,8 @@
     <MESSAGE value="2.21 update" />
     <MESSAGE value="2.23 update" />
     <MESSAGE value="2.24 update" />
-    <option name="LAST_COMMIT_MESSAGE" value="2.24 update" />
+    <MESSAGE value="2.25 update" />
+    <option name="LAST_COMMIT_MESSAGE" value="2.25 update" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/算法与数据结构/第一章 概论/概论.md" />
@@ -533,6 +553,16 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="722">
             <caret line="66" column="13" selection-start-line="66" selection-start-column="13" selection-end-line="66" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法与数据结构/第二章 线性表/2.4 顺序表和链表的比较.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="722">
+            <caret line="58" column="2" selection-start-line="58" selection-start-column="2" selection-end-line="58" selection-end-column="2" />
           </first_editor>
           <second_editor />
         </state>
