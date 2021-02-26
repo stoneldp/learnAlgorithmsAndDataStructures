@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d45e4b1-addb-4e9d-8d93-1f4f6327b0e0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/算法与数据结构/第二章 线性表/2.4 顺序表和链表的比较.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -71,7 +70,7 @@
         <entry file="file://$PROJECT_DIR$/算法与数据结构/第二章 线性表/2.4 顺序表和链表的比较.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="722">
+              <first_editor relative-caret-position="782">
                 <caret line="58" column="2" selection-start-line="58" selection-start-column="2" selection-end-line="58" selection-end-column="2" />
               </first_editor>
               <second_editor />
@@ -184,7 +183,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../learn-financial" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -363,7 +362,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614211462427</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="2.25 update">
+      <created>1614213366074</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1614213366074</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TodoView">
@@ -561,7 +567,7 @@
     <entry file="file://$PROJECT_DIR$/算法与数据结构/第二章 线性表/2.4 顺序表和链表的比较.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="722">
+          <first_editor relative-caret-position="782">
             <caret line="58" column="2" selection-start-line="58" selection-start-column="2" selection-end-line="58" selection-end-column="2" />
           </first_editor>
           <second_editor />
