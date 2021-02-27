@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d45e4b1-addb-4e9d-8d93-1f4f6327b0e0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/算法与数据结构/第三章 栈与队列/3.1.1 栈.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/算法与数据结构/第三章 栈与队列/3.1 栈.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法与数据结构/第三章 栈与队列/3.1.2 栈.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法与数据结构/第三章 栈与队列/3.1.1 栈.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法与数据结构/第三章 栈与队列/3.1.1 栈.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +18,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="525">
-                <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+                <caret line="35" column="4" lean-forward="true" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
               </first_editor>
               <second_editor />
             </state>
@@ -312,7 +311,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614339645689</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="2.27 update">
+      <created>1614385644879</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1614385644879</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TodoView">
@@ -380,7 +386,8 @@
     <MESSAGE value="2.24 update" />
     <MESSAGE value="2.25 update" />
     <MESSAGE value="2.26 update" />
-    <option name="LAST_COMMIT_MESSAGE" value="2.26 update" />
+    <MESSAGE value="2.27 update" />
+    <option name="LAST_COMMIT_MESSAGE" value="2.27 update" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/算法与数据结构/第一章 概论/概论.md" />
@@ -541,7 +548,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="525">
-            <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+            <caret line="35" column="4" lean-forward="true" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
           </first_editor>
           <second_editor />
         </state>
